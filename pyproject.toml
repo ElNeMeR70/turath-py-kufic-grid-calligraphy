@@ -1,0 +1,7 @@
+[project]
+name = "turath-py-kufic-grid-calligraphy"
+version = "1.0.0"
+description = "Square Kufic (Banna'i) Calligraphy Binary Grid Layout Optimizer (مهندس الخط الكوفي المربع على الشبكة الهندسية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
